@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Nidhish J. | Dalton School | Machine Learning | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://drive.google.com/file/d/10lm1vrbER0-bHh9HmiK1VmBPuYHyQtlV/view?usp=sharing)
   
 # Final Milestone
 Coming soon...
