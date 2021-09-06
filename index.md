@@ -11,7 +11,7 @@ This will serve as a brief description of your project. Limit this to three sent
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRQpSg9gZ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
-Coming soon...
+After I got the smart car to move, I decided to write the code for color detection using OpenCV. After connecting the RPi Camera to the Rasberry Pi unit, I imported the open CV packages on the terminal. My first step was to create trackbars that determined the color that the camera was looking for. Since color is based on the parameters of RGB, I made three trackbars for each color: red, green, and blue. The values that determine the intensity of the color range from 0-255, so as you scroll the trackbar up, you can increase the intensity of each color, to match what color you are detecting. 
 
 # First Milestone
   
