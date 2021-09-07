@@ -10,8 +10,16 @@ This will serve as a brief description of your project. Limit this to three sent
 # Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRQpSg9gZ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**#Future Steps**
+
+In addition to completing the project, I would also like to attempt to use a convolutional neural network (CNN) to detect a ball. The main advantaged of using a CNN to detect a ball over color detection, is that the CNN can detect a ball through the RPi Camera regaurdless of its color. It can do this because the main objective of a CNN is to find patterns based on pixel values. When using a CNN 
+
+**#Third Milestone**
+
+For my third milestone, my plan was to interface the motors of the smart car chassis with the color detection portion of my OpenCV code, in order for the car to follow a tennis ball. Unfortunately, the motors of the car broke down so I was not able to complete the final step of this project. If I am able to obtain new motors in the future, I would love to complete it and demo the car following a tennis ball in real time. Nevertheless, here is the code that would enable the car to follow a tennis ball. 
+
 # Second Milestone
-After I got the smart car to move, I decided to write the code for color detection using OpenCV. After connecting the RPi Camera to the Rasberry Pi unit, I imported the open CV packages on the terminal. My first step was to create trackbars that determined the color that the camera was looking for. Since color is based on the parameters of RGB, I made three trackbars for each color: red, green, and blue. The values that determine the intensity of the color range from 0-255, so as you scroll the trackbar up, you can increase the intensity of each color, to match what color you are detecting. 
+After I got the smart car to move, I decided to write the code for color detection using OpenCV. After connecting the RPi Camera to the Rasberry Pi unit, I imported the open CV packages on the terminal. My first step was to create trackbars that determined the color that the camera was looking for. Since color is based on the parameters of RGB, I made three trackbars for each color: red, green, and blue. The values that determine the intensity of the color range from 0-255, so as I scroll the trackbar up, I can increase the intensity of each color, to match the color that I would like to detect. 
 
 # First Milestone
   
